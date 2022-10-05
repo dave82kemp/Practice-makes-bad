@@ -1,0 +1,5 @@
+a = "Donna "
+b = "is "
+c = "GREAT!"
+text = a+b+c
+print(text*4)
